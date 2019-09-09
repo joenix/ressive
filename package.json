@@ -1,0 +1,22 @@
+{
+  "name": "ressive",
+  "version": "2.1.2",
+  "description": "An Ingenious Kit 4 Simple Project Build",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "ressive"
+  ],
+  "author": "joenix@qq.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {}
+}
